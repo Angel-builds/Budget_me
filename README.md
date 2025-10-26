@@ -17,3 +17,5 @@ All expenses are automatically saved to a local text file so you don’t lose yo
 - View total spending  
 - Automatically save data to a file (`expenses.txt`)  
 - Simple and beginner-friendly interface  
+# Category
+Python CLI / File Handling Project
