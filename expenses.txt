@@ -1,2 +1,0 @@
-groceries ,40.0
-clothes,50.0
