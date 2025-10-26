@@ -16,6 +16,20 @@ All expenses are automatically saved to a local text file so you don’t lose yo
 - View all recorded expenses  
 - View total spending  
 - Automatically save data to a file (`expenses.txt`)  
-- Simple and beginner-friendly interface  
+- Simple and beginner-friendly interface
+
+---
+
+## 🚀 Next Steps / Future Improvements
+
+Here are a few features I plan to add next:
+
+- 📅 Add a date to each expense  
+- 💾 Export expenses to a CSV file  
+- 📊 Show total spent by day or category  
+- 💻 Add a simple GUI version using Tkinter or Streamlit  
+
+These will make the project more advanced as I continue learning.
+
 # Category
 Python CLI / File Handling Project
