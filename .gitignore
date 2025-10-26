@@ -1,0 +1,9 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# System files
+.DS_Store
+
+# Text data files
+expenses.txt
